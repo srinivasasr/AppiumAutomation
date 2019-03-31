@@ -1,0 +1,6 @@
+app=/Users/yc05s2a/Library/Developer/Xcode/DerivedData/OpenShop-auqwsunxywnkgaasynzzbnwkwhqy/Build/Products/Debug-iphonesimulator/OpenShop.app
+deviceName=iPhone X (11.2)
+automationName=XCUITest
+platformName=iOS
+platformVersion=10.12.6
+udid=1F9FEE51-D0DC-495E-B1F1-7642DEA646EF
