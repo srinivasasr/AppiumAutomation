@@ -1,41 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ae843b0-a1aa-41d6-82dd-458c017a907f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/animal_sniffer_annotations_1_141.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/byte_buddy_1_8_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/byte_buddy_1_8_151.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/client_combined_3_141_59_sources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/client_combined_3_141_59_sources1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/srini/Algorithems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/srini/RevInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Demo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Demo/com/srini/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Demo/com/srini/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Demo/com/srini/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Demo/com/srini/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Demo/com/srini/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Demo/com/srini/Circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Demo/com/srini/LinearSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Demo/com/srini/LinearSearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Demo/com/srini/MultiThree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Demo/com/srini/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Demo/com/srini/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Demo/com/srini/evenodd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Demo/com/srini/evenodd.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Demo/com/srini/loops$KissMyShinyMetalRearActuator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Demo/com/srini/loops.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Demo/iosAPP/Appautomation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Demo/iosAPP/Appautomation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Demo/iosAPP/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Demo/iosAPP/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Demo/utils/CapsReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Demo/utils/CapsReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/srini/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/srini/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/srini/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/srini/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/srini/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/srini/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/srini/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/srini/LinearSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/srini/MultiThree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/srini/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/srini/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/srini/evenodd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/srini/evenodd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/iosAPP/Appautomation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/iosAPP/Appautomation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/iosAPP/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/iosAPP/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/CapsReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/CapsReader.java" afterDir="false" />
-    </list>
+    <list default="true" id="8ae843b0-a1aa-41d6-82dd-458c017a907f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -510,7 +476,7 @@
       <workItem from="1559085381714" duration="655000" />
       <workItem from="1560287803275" duration="1795000" />
       <workItem from="1560997916347" duration="5380000" />
-      <workItem from="1561055717997" duration="6572000" />
+      <workItem from="1561055717997" duration="7115000" />
     </task>
     <servers />
   </component>
@@ -547,7 +513,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="411071000" />
+    <option name="totallyTimeSpent" value="411614000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
