@@ -16,6 +16,7 @@ public class CapsReader {
 
     public DesiredCapabilities getCapabilities() {
         DesiredCapabilities caps = new DesiredCapabilities();
+
         try {
             BufferedReader reader = new BufferedReader(new FileReader(System.getProperty("user.dir")+"/capabs/ioscaps.txt"));
             String line = reader.readLine();
@@ -33,8 +34,8 @@ public class CapsReader {
         return caps;
     }
 
-    public static void main(String[] args) {
+   /* public static void main(String[] args) {
         CapsReader caps = new CapsReader();
         caps.getCapabilities();
-    }
+    }*/
 }

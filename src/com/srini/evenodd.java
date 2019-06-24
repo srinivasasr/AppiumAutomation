@@ -1,23 +1,24 @@
 package com.srini;
+
 import java.io.*;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Scanner;
 
 public class evenodd {
-    public static void main(String[] args) throws Exception {
-        int n=0;
-        int b=0;
-        double j=0;
-        while(b!=-1){
 
-            BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-             b = Integer.parseInt(br.readLine());
-             if(b==-1) break;
-            j += b;
-n++;
+    public static void main(String[] args) throws Exception {
+
+        for (int i = 1; i <= 4; i++) {
+            for (int j = 1; j <= 4; j++) {
+                System.out.print(j);
+            }
+            System.out.println("");
         }
-        double k = j/n;
-        System.out.println(k);
     }
 }
+/*
+1234
+2341
+3412
+4123*/

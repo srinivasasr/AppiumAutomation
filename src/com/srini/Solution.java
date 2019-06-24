@@ -3,41 +3,39 @@ package com.srini;
 import javafx.beans.binding.ObjectExpression;
 
 import java.io.*;
+import java.math.BigInteger;
 import java.util.*;
 
 
 public class Solution {
 
     public static void main(String[] args) {
-        List list = new ArrayList();
-        list.add("ddddd");
-        list.add("bbbbbb");
-        list.add("ccccc");
-        list.add("ddddd");
-        list.add("eeeee");
-        list.add("ddddd");
-        list.add(0, "srinivas");
-        //System.out.println(list);
-        //Collections.sort(list);
 
-        //System.out.println(list);
-        //list.remove(1);
-        Iterator it = list.iterator();
-        while (it.hasNext()){
-            Object asr = it.next();
-            System.out.println(asr);
+
+   int [] s = {100,100,50,40,40,20,10};
+   int [] a = {5,25,50,120};
+
+        int[] rank = new int[s.length];
+        rank[0] = 1;
+        for(int i=1;i<s.length;i++){
+            if(s[i] < s[i-1]){
+                rank[i] = rank[i-1] + 1;
+            }else{
+                rank[i] = rank[i-1];
+            }
         }
+        int k=s.length-1;
+        for(int i=0;i<a.length;i++){
 
-        //System.out.println(list.contains("ccccc"));
-        //Object [] arr = list.toArray();
-        //System.out.println(Arrays.toString(arr));
+            while(k>=0 && a[i] >= s[k])
+                k--;
 
-        // for (Object asr : list) {
-        //System.out.println(list.get(0));
-
-        //}
-
+            if(k >= 0)
+                System.out.println(rank[k]+1);
+            else
+                System.out.println("1");
+        }
+    }
     }
 
-}
 

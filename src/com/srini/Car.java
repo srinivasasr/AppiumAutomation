@@ -4,7 +4,8 @@ public class Car {
     String name;
     double topSpeed;
 
-    public Car(){}
+    public Car() {
+    }
 
     public String getName() {
         return name;
@@ -21,7 +22,8 @@ public class Car {
     public void setTopSpeed(double topSpeed) {
         this.topSpeed = topSpeed;
     }
-    public double getTopSpeedKHM(){
+
+    public double getTopSpeedKHM() {
         return topSpeed * 1.60;
     }
 }
